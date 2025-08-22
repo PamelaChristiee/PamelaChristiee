@@ -24,7 +24,7 @@
 
 🎯 My goal is to become a front-end developer and keep improving every day.
 
-## 📫 How to reach me
+ 📫 How to reach me
 
 - ✉️ Email: pamelachristie99@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/pamela-christie-a589b5290/
